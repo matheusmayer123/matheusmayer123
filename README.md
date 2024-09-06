@@ -8,7 +8,7 @@
 ##I'm deepening my knowledge of PHP in the creation and maintenance of REST model APIs 
 ##using OOP, relational databases and a scalable format.
 
-##Ferramentas e Tecnologias / Tools and Technologies
+##Ferramentas e Tecnologias - Tools and Technologies
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="40" height="40" />
