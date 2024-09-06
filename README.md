@@ -1,16 +1,36 @@
-## Hi there 👋
+# Olá, me chamo Matheus Mayer !
+## Bem vindo ao meu perfil GitHub 👋
+##English -
+#Hello! Welcome to my Github profile.
+##My name is Matheus Mayer and my nickname is "matheusmayer123"!
 
-<!--
-**matheusmayer123/matheusmayer123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##Estou me aprofundando em PHP na parte de criação e manuzeio de APIs modelo REST 
+##utilizando POO, base de dados relacionais e formato escalonavel.
+##I'm deepening my knowledge of PHP in the creation and maintenance of REST model APIs 
+##using OOP, relational databases and a scalable format.
 
-Here are some ideas to get you started:
+##Ferramentas e Tecnologias / EN - Tools and Technologies
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+<div>
+<a href="https://github.com/seu-usuário-aqui">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
+## Contatos:
+
+<div>
+<a href="https://instagram.com/_math44" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mafrezza17@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/matheusmayer123/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+
