@@ -1,20 +1,28 @@
 # Olá, me chamo Matheus Mayer !
 ## Bem vindo ao meu perfil GitHub 👋
 
-##Hello! Welcome to my Github profile.
-##My name is Matheus Mayer and my nickname is "matheusmayer123"!
+Hello! Welcome to my Github profile.
+My name is Matheus Mayer and my nickname is "matheusmayer123"!
+
+<br>
 
 
-###Estou me aprofundando em PHP na parte de criação e manuzeio de APIs modelo REST 
-###utilizando POO, base de dados relacionais e formato escalonavel.
+## O que estou estudando...
+
+Estou me aprofundando em PHP na parte de criação e manuzeio de APIs modelo REST 
+utilizando POO, base de dados relacionais e formato escalonavel.
 
 
+## What I'm studying...
 
-###I'm deepening my knowledge of PHP in the creation and maintenance of REST model APIs 
-###using OOP, relational databases and a scalable format.
+I'm deepening my knowledge of PHP in the creation and maintenance of REST model APIs 
+using OOP, relational databases and a scalable format.
+
+<br>
+<hr>
 
 
-##Ferramentas e Tecnologias - Tools and Technologies
+## Ferramentas e Tecnologias - Tools and Technologies
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="40" height="40" />
